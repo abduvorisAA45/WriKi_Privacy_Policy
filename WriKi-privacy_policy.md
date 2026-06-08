@@ -3,7 +3,6 @@
 **Last updated:** June 7, 2025  
 **Developer:** Team WriKi  
 **Contact:** wriki5555@gmail.com
-
 **Desktop Versions of app** https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version
 
 ---
