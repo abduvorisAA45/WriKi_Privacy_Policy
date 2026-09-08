@@ -5,6 +5,8 @@
 **Contact:** wriki5555@gmail.com
 
 **Desktop Versions of app** https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version
+**Android Version of app** https://play.google.com/store/apps/details?id=com.eclass.wriki
+**iOS Version of app** https://apps.apple.com/uz/app/wriki/id6795195842
 
 ---
 
