@@ -1,6 +1,6 @@
 # Privacy Policy — WriKi
 
-**Last updated:** June 7, 2025  
+**Last updated:** June 7, 2026  
 **Developer:** Team WriKi  
 **Contact:** wriki5555@gmail.com
 
